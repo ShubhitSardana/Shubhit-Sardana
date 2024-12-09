@@ -1787,8 +1787,8 @@ textarea.form-input::-webkit-resizer { display: none; }
     position: relative;
     width: 200px;
     height: auto;
-    left: -15%;
-    top: -12%;
+    left: -40%;
+    top: -37%;
   }
 
   .info-content .name {
